@@ -1,0 +1,31 @@
+Q1- What is programing Lanaguage?
+Programming language ia human readable/writtable way of communicating and sending commands to computer. programming language helps in sending the instructions to computer.
+
+Q2- why do we need programming language?
+We need programming language to send commands to computer to do and get our job done.
+
+Q3- What are the features of java?
+Features of java- 
+
+    1. Portable
+    2. Open Source
+    3. Secure
+    4. Robust
+    5. Simple
+    6. Object oriented programming language
+    7. Easy to learn
+
+Q4- What is an object?
+Object can be any real world entity that has properties and behaviour.
+examples of object are Student, Employee, Car, Bus, School
+
+Q5- what is a class?
+Class is a blueprint of the object that defines what properties and behaviour the object will have.
+
+Q6- Explain about main method in java?
+main() method is the first method that is executed in the java program by jvm.
+main() is static so it is executed directly and no need to create the object to call this method.
+main() it is public means it can easily visible to jvm.
+main() is very important method in the java program as this the point where any java programm start its execution.
+
+
