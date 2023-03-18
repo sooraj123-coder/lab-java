@@ -9,7 +9,7 @@ Q-3Where is the stored in 3 computer?
 In computer the data is stored in ROM(NON-volatile memory)
 
 Q4-What is that input device used to type text and numbers on a document in the computer system?
-Keyboard
+Keyboard 
 
 Q5-What are the output devices?
 Output device are the devices connected to CPU that are used to transfer the data from computer system to user like monitor, printer.
