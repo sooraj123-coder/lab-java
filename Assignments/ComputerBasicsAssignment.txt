@@ -1,0 +1,24 @@
+Q1-what is computer ?
+Computer is an electronic device which uses other sub devices attached to it to perform complex task and calculations that huma brains might take 
+longer time to solve or think. Computer can store, manage and process the data as per the user wants.
+
+Q2-What is RAM?
+RAM stands for Random Access memory it is a volatile memory which is situated between the ROM and the processor in the computer system.
+
+Q-3Where is the stored in 3 computer?
+In computer the data is stored in ROM(NON-volatile memory)
+
+Q4-What is that input device used to type text and numbers on a document in the computer system?
+Keyboard
+
+Q5-What are the output devices?
+Output device are the devices connected to CPU that are used to transfer the data from computer system to user like monitor, printer.
+
+Q6-which input device that allows the user to move cursor on the screen ?
+Mouse
+
+Q7-which language is directly understood by the computer without processing it?
+Machine Language
+
+Q8-What are input devices?
+Devices which are used to send data to the computer system like mouse, keyboard, scanner, joystick.
