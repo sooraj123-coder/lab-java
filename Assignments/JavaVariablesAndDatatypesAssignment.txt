@@ -1,0 +1,59 @@
+Q1- What is statically typed and dynamically typed Programming Language;
+Statically typed : means the programmer has to define the type of variable while decalring it for the very first time, like int data;
+here in the above example I have declared variable data with int type. java is Statically typed language.
+
+Dynamically typed language : In these programming languages programmer does not required to specify the type of variable while declarng it for the first type the type is automatically identified by the 
+type of data stored in that variable, like data="PW College"
+here in the above example I have not defined the type of variable even though the programming language will automatically identifu=y its type based on the value stored in it.
+
+Q2- what is variable in java;
+Variable is nothing but a named memory location in RAM which stores some value as per its defined type.
+like int data=45;
+Data is a variable.
+
+Q3- How To Assign a Value To Variable?
+We assign value to variable using the Assignment operator(=). The value to be stored is specified at the right side of the (=)operator and
+variable on the left side.
+
+Q4- what are primitive data types in java?
+the data types which are inbuilt in java laguage are called primitive data types. we can directly use them to create varaiable.
+example : byte, short, int, long, float, double
+
+Q5- what are identifiers in java?
+Identifiers are the fundamental building block of any programming laguage, Identifier can any name give to class, variable, method, anything that helps to identify little things in programs.
+
+Q6- List the operators in java?
+Arithmetic - -, +, /, %, * 
+Logical -  !, ||, &&
+Relational - ==, <=, >=, !=, <>, <, >
+Btiwise - |, &, ~, ^ 
+Shift - <<, >>, >>>
+Assignment - =
+Unary - --, ++
+Ternary - (conditiona)?true section:false section
+
+Q7- explain about increment and decrement operator give examples?
+
+decrement operator = --, used to decrease the value of variable used along with it by 1
+Increment operator = ++, used to increase the value of variable used along with it by 1
+
+there are two categories of increment and decrement operators
+1- prefix - rule -> change then use
+2- postfix - rule -> use then change
+
+example: 
+Public class Example{
+
+    public static void main(String args[]){
+        int a=10;
+        int b=10;
+
+        System.out.println(" a incremented using prefix increment ++a = "+ ++a);
+        System.out.println(" b incremented using postfix increment b++ = "+ b++);
+    }
+}
+         
+
+    output - a incremented using prefix increment ++a = 11
+             b incremented using postfix increment b++ = 10 //though the value of b is incremented but it will still print 10 if you again print the b then the new value will be 11
+
